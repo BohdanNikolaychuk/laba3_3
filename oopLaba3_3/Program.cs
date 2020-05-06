@@ -3,7 +3,7 @@ using System.IO;
 
 namespace oopLaba3_3
 {
-    //підраховує кількість слів у текст
+    
     class Program
     {
         static void numsword(string str)
